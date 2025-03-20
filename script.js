@@ -43,6 +43,12 @@ for (let i = 1; i <= 10; i++) {
 */
 // SKRIV UNDER HER
 
+const number = 7;
+
+for (let i = 1; i <= 10; i++) {
+  console.log(`${number} x ${i} = ${number * i}`);
+}
+
 /*
 //OPPGAVE.3, forEach
 
