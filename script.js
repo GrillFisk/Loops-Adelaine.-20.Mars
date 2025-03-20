@@ -16,7 +16,7 @@ while (countdown > 0) {
 
 console.log('Blast off!');
 */
-// SKRIV UNDER HER
+// SKRIV UNDER HER ------ hvordan lage en nedtelling --- eksempel her fra "5-0" -- Kan bruke "++" for opptelling. fra "0-5"
 
 let countdown =5;
 
@@ -41,7 +41,7 @@ for (let i = 1; i <= 10; i++) {
   console.log(`${number} x ${i} = ${number * i}`);
 }
 */
-// SKRIV UNDER HER
+// SKRIV UNDER HER ---- Hvordan lage en gangetabell fra 1-10, eksempel her er "7-gangen"
 
 const number = 7;
 
@@ -64,7 +64,12 @@ shoppingList.forEach((item) => {
   console.log(item);
 });
 */
+
 // SKRIV UNDER HER
+
+shoppingList.forEach((item) => {
+  console.log(item);
+});
 
 /*
 //OPPGAVE.4, map
