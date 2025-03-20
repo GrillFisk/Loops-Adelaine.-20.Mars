@@ -67,6 +67,8 @@ shoppingList.forEach((item) => {
 
 // SKRIV UNDER HER
 
+let shoppingList = ['milk', 'bread', 'fish', 'egg'];
+
 shoppingList.forEach((item) => {
   console.log(item);
 });
