@@ -23,6 +23,12 @@ og lag en ny string i console.log som console.log hvert element i array
 */
 // SKRIV UNDER HER
 
+const number = 5;
+
+for (let i = 1; i <= 10; i++) {
+  console.log(`${number} x ${i} = ${number * i}`);
+}
+
 /*
 EXTRA oppgave forEach:
 1. Skriv en ny variabel 'shoppingList' med en array av matvarer, lag en forEach som console.log hvert element i shoppingList
